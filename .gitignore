@@ -1,3 +1,4 @@
 # Ignore dist and node_modules folders in the root directory
 /dist
 /node_modules
+.idea
