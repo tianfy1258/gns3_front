@@ -1,0 +1,13 @@
+{
+  "name": "@jtopo/core",
+  "version": "1.4.6",
+  "module": "jtopo-1.4.6_5_trial-esm-min.js",
+  "types": "./dist/jtopo.d.ts",
+  "author": "jitusoft",
+  "_requiredBy": [
+    "/"
+  ],
+  "scripts": {
+  },
+  "homepage": "https://www.jtopo.com"
+}
